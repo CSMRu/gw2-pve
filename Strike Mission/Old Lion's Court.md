@@ -1,6 +1,6 @@
 <img src="../_image/strike mission/20px-Strike_Mission_(map_icon).png" width="20px" height="20px" title="Strike Mission Icon" alt=""></img>   
 |Squad|Heal・Alacrity|Quickness|DPS|DPS|DPS|
-|---|---|---|---|---|---|
+|:---|:---:|:---:|:---:|:---:|:---:|
 |Group 1.|<img src="../_image/general/profession/Mechanist_icon_(highres).png" width="64px" height="64px" title="Mechanist" alt=""></img>|<img src="../_image/general/profession/Herald_icon_(highres).png" width="64px" height="64px" title="Herald" alt=""></img>|<img src="../_image/general/profession/Virtuoso_icon_(highres).png" width="64px" height="64px" title="Virtuoso" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="64px" title="DPS" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="64px" title="DPS" alt=""></img>|
-|Group 2.||||||   
+|Group 2.|<img src="../_image/general/profession/Mechanist_icon_(highres).png" width="64px" height="64px" title="Mechanist" alt=""></img>|<img src="../_image/general/profession/Herald_icon_(highres).png" width="64px" height="64px" title="Herald" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="64px" title="DPS" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="64px" title="DPS" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="64px" title="DPS" alt=""></img>|
 
