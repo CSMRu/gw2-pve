@@ -5,5 +5,8 @@
 |Group 2.|<img src="../_image/general/profession/Mechanist_icon_(highres).png" width="64px" height="64px" title="Mechanist" alt=""></img>|<img src="../_image/general/profession/Herald_icon_(highres).png" width="64px" height="64px" title="Herald" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="auto" title="DPS" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="auto" title="DPS" alt=""></img>|<img src="../_image/general/profession/Living_World_logo.png" width="64px" height="auto" title="DPS" alt=""></img>|
    
 |Triple-Threat Puzzles|||||
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 |Who|Where|State|CC Target||
+||Center||<img src="../_image/strike mission/olc/Vermilion.png" width="20px" height="20px" title="Vermilion" alt=""></img>Vermilion||
+||Edge|Look inside|<img src="../_image/strike mission/olc/Arsenite.png" width="20px" height="20px" title="Arsenite" alt=""></img>Arsenite||
+||Edge|Look outside|<img src="../_image/strike mission/olc/Indigo.png" width="20px" height="20px" title="Indigo" alt=""></img>Indigo||
