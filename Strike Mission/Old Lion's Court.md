@@ -7,6 +7,6 @@
 |Triple-Threat Puzzles|||||
 |---|:---|:---|:---|:---|
 |Who|Where|State|CC Target||
-||Center||<img src="../_image/strike mission/olc/Vermilion.png" width="20px" height="20px" title="Vermilion" alt=""></img>Vermilion||
-||Edge|Look inside|<img src="../_image/strike mission/olc/Arsenite.png" width="20px" height="20px" title="Arsenite" alt=""></img>Arsenite||
-||Edge|Look outside|<img src="../_image/strike mission/olc/Indigo.png" width="20px" height="20px" title="Indigo" alt=""></img>Indigo||
+|Arsenite|Center||<img src="../_image/strike mission/olc/Vermilion.png" width="20px" height="20px" title="Vermilion" alt=""></img>Vermilion||
+|Arsenite|Edge|Look inside|<img src="../_image/strike mission/olc/Arsenite.png" width="20px" height="20px" title="Arsenite" alt=""></img>Arsenite||
+|Arsenite|Edge|Look outside|<img src="../_image/strike mission/olc/Indigo.png" width="20px" height="20px" title="Indigo" alt=""></img>Indigo||
