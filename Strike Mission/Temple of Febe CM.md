@@ -14,4 +14,16 @@
 
 Strategy
 --------
-<img src="../_image/strike mission/temple of febe/ToF_strat.jpeg" width="" height="" title="" alt=""></img>
+Phase 1. Spawn aspect every 30sec (~80%)
+|   Squad  |       Cerus       | Aspects | Portal |
+|:--------:|:-----------------:|:-------:|:------:|
+|          |       Regret      |         |        |
+| drop dot |      Despair      |  Malice |        |
+|   Kill   |        Envy       |         |        |
+|          |                   |         |        |
+|   drop   | Malice & Gluttony | Despair |        |
+|          |                   |         |        |
+|   Kill   |        Rage       |         |        |
+|          |       Regret      |   Envy  |        |
+|   drop   |      Despair      |         |        |
+|   Stack  |        Envy       |         |    <span style="background-color:lightblue;">파란색 배경</span>    |
