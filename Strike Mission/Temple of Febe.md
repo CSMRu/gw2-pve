@@ -11,17 +11,6 @@ Strike Mission: Temple of Febe CM
 ---------------------------------------------------------------------------------------------------------------------------------------------
 <img src="../_image/strike mission/temple of febe/tof_marker_position.png" width="" height="" title="Commander Marker Position" alt=""></img>
 
-Phase 1. Spawn aspect every 30sec (~80%)
-----------------------------------------
-| <img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad Tag" alt=""></img> Squad | <img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus | <img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects | <img src="../_image/profession/Chronomancer_icon_(highres).png" width="20" height="20" title="Portal 1" alt=""></img><img src="../_image/profession/Scourge_icon_(highres).png" width="20" height="20" title="Portal 2" alt=""></img> Portal |
-|:-----:|:-----:|:-----:|:-----:|
-|<img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="Arrow" alt=""></img>| Regret |     |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Tag" alt=""></img>|
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
-|       |       |       |       |
+Strategy
+--------
+<img src="../_image/strike mission/temple of febe/ToF_strat.jpeg" width="" height="" title="" alt=""></img>
