@@ -24,6 +24,8 @@ Strategy
 | drop |<p>$\color{yellow}{Malice/Gluttony}$</p>| Despair | |
 |<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img>| | | |
 |<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img> Kill <img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>| Rage | |<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_triangle_marker.png" width="20" height="20" title="triangle" alt=""></img>|
-|          |       Regret      |   Envy  |        |
-|   drop   |      Despair      |         |        |
-|   Stack  |        Envy       |         |        |
+| | Regret | Envy | |
+| drop | Despair | | |
+|<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img> Stack| Envy | | |
+**Split 1. Kill Regret (３) / Cover Gluttony (９)**
+**Phase 2. Spawn aspect every 20sec (~50%)**
