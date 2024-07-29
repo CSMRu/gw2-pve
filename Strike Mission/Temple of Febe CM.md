@@ -1,5 +1,6 @@
 Strike Mission: Temple of Febe CM
 =================================
+
 <img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad Tag" alt=""></img> Squad Composition
 -----------------------------------------------------------------------------------------------------------------------------
 |           | Heal・Alacrity | Quickness | DPS | DPS | DPS |
