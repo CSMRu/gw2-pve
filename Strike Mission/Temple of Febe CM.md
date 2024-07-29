@@ -1,5 +1,5 @@
-Strike Mission: Temple of Febe CM
-=================================
+<img src="../_image/strike mission/20px-Strike_Mission_(map_icon).png" width="20" height="20" title="Strike Mission" alt=""></img> Strike Mission: Temple of Febe CM
+=============================================================================================================================
 
 <img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad Tag" alt=""></img> Squad Composition
 -----------------------------------------------------------------------------------------------------------------------------
