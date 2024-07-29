@@ -14,21 +14,10 @@
 
 Strategy
 --------
-<html>
-<head>
-  <style>
-    #specialCell {
-      background-color: yellow;
-    }
-  </style>
-</head>
-
-
-
 Phase 1. Spawn aspect every 30sec (~80%)
 |   Squad  |       Cerus       | Aspects | Portal |
 |:--------:|:-----------------:|:-------:|:------:|
-|          |       Regret      |         |        |
+|<img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>|       Regret      |         |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img>|
 | drop dot |      Despair      |  Malice |        |
 |   Kill   |        Envy       |         |        |
 |          |                   |         |        |
@@ -38,6 +27,3 @@ Phase 1. Spawn aspect every 30sec (~80%)
 |          |       Regret      |   Envy  |        |
 |   drop   |      Despair      |         |        |
 |   Stack  |        Envy       |         |        |
-
-
-</html>
