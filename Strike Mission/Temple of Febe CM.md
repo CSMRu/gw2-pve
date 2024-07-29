@@ -40,11 +40,11 @@ Strategy
 |<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img>➡️|<p>$\color{magenta}{Envy}$</p>| | |
 | | Malice | Gluttony |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img><img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img>**３**|
 |<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img>| <p>$\color{lime}{Gluttony}$</p>| Malice |<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_triangle_marker.png" width="20" height="20" title="triangle" alt=""></img>|
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
+|<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img> Kill <img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img>| Rage | | |
+| double drop 12 | Regret | Despair | |
+| | Despair | | |
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img>➡️|<p>$\color{magenta}{Envy}$</p>| | |
+| Jump <img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>| | Envy |<img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img><img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img>**７**|
+| | Malice/Gluttony | Regret | |
+|<img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img> Kill| Rage | |<img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_heart_marker.png" width="20" height="20" title="heart" alt=""></img>|
+| | Regret | Rage | |
