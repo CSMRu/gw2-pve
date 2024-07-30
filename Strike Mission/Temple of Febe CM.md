@@ -10,7 +10,7 @@
 
 <img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="Commander Marker" alt=""></img> Commander Marker Position
 ---------------------------------------------------------------------------------------------------------------------------------------------
-<img src="../_image/strike mission/temple of febe/tof_marker_position.png" width="" height="" title="Commander Marker Position" alt=""></img>
+<img src="../_image/strike mission/temple of febe/tof_marker_rage.png" width="" height="" title="Commander Marker Position" alt=""></img>
 
 Strategy
 --------
