@@ -65,18 +65,18 @@ Strategy
 |DROP DOT <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img> Kill| Despair | | |
 |Jump <img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>| Regret | Envy | |
 |<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| Envy | Regret | |
-| | Gluttony | Rage |１<img src="../_image/skill/mesmer/Continuum_Split.png" width="20" height="20" title="Continuum Split" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img><img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/skill/mesmer/Continuum_Shift.png" width="20" height="20" title="Continuum Shift" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
+| |<p>$\color{pink}{Gluttony}$</p>|<p>$\color{pink}{Rage}$</p>|１<img src="../_image/skill/mesmer/Continuum_Split.png" width="20" height="20" title="Continuum Split" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img><img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/skill/mesmer/Continuum_Shift.png" width="20" height="20" title="Continuum Shift" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|
+|<img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img> 12| | | |
+|12 <img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>|<p>$\color{yellow}{Rage}$</p>| |12 <img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_x_marker.png" width="20" height="20" title="X" alt=""></img>🔗️️<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img> 12 <img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
+|<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>| |<p>$\color{magenta}{Gluttony}$</p>| |
+|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img> DROP EDGE <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/squad/Commander_x_marker.png" width="20" height="20" title="X" alt=""></img><img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img>| Despair | Malice |<img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img>|
+| Kill |<p>$\color{lime}{Regret}$</p>| |↖️<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>|
+|DROP DOT <img src="../_image/general/Turn_Left.png" width="20" height="20" title="Left" alt=""></img><img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>| | Despair | |
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| Envy | | |
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img> Jump９|<p>$\color{yellow}{Gluttony}$</p>| Envy | |
+| ５ | |<p>$\color{lime}{Regret}$</p>| |
+|５<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>|<p>$\color{yellow}{Rage}$</p>| |５<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>**５**🔗<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img>**５**<img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
+|<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>| Malice |<p>$\color{yellow}{Rage}$</p>|<img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|
+| DROP | Despair | | |
+|<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img> Stack| Regret |<p>$\color{yellow}{Gluttony}$</p>| |
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| Envy | Malice | |
