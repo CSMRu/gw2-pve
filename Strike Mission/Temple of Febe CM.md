@@ -98,3 +98,5 @@ Strategy
 | 6 (+Range 450) | \<\<\<Enraged Smash\>\>\> | Rage | |
 |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Gluttony | |
 | Win Or Die | Win Or Die | Win Or Die | Win Or Die |
+
+<span style="color:purple">xtx</span>
