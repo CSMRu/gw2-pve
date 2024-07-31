@@ -77,6 +77,23 @@ Strategy
 | ５ | |<p>$\color{lime}{Regret}$</p>| |
 |５<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>|<p>$\color{yellow}{Rage}$</p>| |５<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>**５**🔗<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img>**５**<img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
 |<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>| Malice |<p>$\color{yellow}{Rage}$</p>|<img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|
-| DROP | Despair | | |
+|<p>$\color{yellow}{DROP}$</p>| Despair | | |
 |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img> Stack| Regret |<p>$\color{yellow}{Gluttony}$</p>| |
 |<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| Envy | Malice | |
+
+**Phase 4. Spawn Aspect every 5sec (~0%)**
+
+|<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Squad |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus |<img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects |<img src="../_image/profession/Chronomancer_icon_(highres).png" width="20" height="20" title="Chronomancer" alt=""></img><img src="../_image/profession/Scourge_icon_(highres).png" width="20" height="20" title="Scourge" alt=""></img> Portal |
+|:-----:|:-----:|:-------:|:------:|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| Win Or Die | Win Or Die | Win Or Die | Win Or Die |
