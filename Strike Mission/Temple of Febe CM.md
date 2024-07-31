@@ -55,17 +55,17 @@ Strategy
 
 |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Squad |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus |<img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects |<img src="../_image/profession/Chronomancer_icon_(highres).png" width="20" height="20" title="Chronomancer" alt=""></img><img src="../_image/profession/Scourge_icon_(highres).png" width="20" height="20" title="Scourge" alt=""></img> Portal |
 |:-----:|:-----:|:-------:|:------:|
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
-|       |       |         |        |
+|<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img>|<p>$\color{lime}{Regret}$</p>| |<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img>|
+|<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>| |<p>$\color{yellow}{Rage}$</p>|<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|
+|<img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img>🚫🔗️<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>️| Envy | | |
+| | |<p>$\color{magenta}{Gluttony}$</p>|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
+| |<p>$\color{yellow}{Gluttony}$</p>|Malice|<img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/squad/Commander_triangle_marker.png" width="20" height="20" title="triangle" alt=""></img>|
+|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img> Kill | Rage | | |
+|DROP LINE <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/squad/Commander_square_marker.png" width="20" height="20" title="Square" alt=""></img><img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img>| Malice | Despair | |
+|DROP DOT <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img> Kill| Despair | | |
+|Jump <img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>| Regret | Envy | |
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| Envy | Regret | |
+| | Gluttony | Rage |１<img src="../_image/skill/mesmer/Continuum_Split.png" width="20" height="20" title="Continuum Split" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img><img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/skill/mesmer/Continuum_Shift.png" width="20" height="20" title="Continuum Shift" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|
 |       |       |         |        |
 |       |       |         |        |
 |       |       |         |        |
