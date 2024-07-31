@@ -85,15 +85,16 @@ Strategy
 
 |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Squad |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus |<img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects |<img src="../_image/profession/Chronomancer_icon_(highres).png" width="20" height="20" title="Chronomancer" alt=""></img><img src="../_image/profession/Scourge_icon_(highres).png" width="20" height="20" title="Scourge" alt=""></img> Portal |
 |:-----:|:-----:|:-------:|:------:|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|<img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>| \<\<\<Enraged Smash\>\>\> | |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img>|
+|<img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img> DROP DOT <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Despair |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="tag" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_star_marker.png" width="20" height="20" title="star" alt=""></img>|
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/strike mission/temple of febe/turn.png" width="20" height="20" title="Turn" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Envy | |
+|<img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Regret | |
+| 6 (+Range 450) | \<\<\<Enraged Smash\>\>\> | Rage | |
+|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img>| \<\<\<Enraged Smash\>\>\> |<p>$\color{magenta}{Gluttony}$</p>|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
+|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Malice |<img src="../_image/skill/mesmer/Blink.png" width="20" height="20" title="Blink" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/squad/Commander_star_marker.png" width="20" height="20" title="star" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>|
+|DROP DOT <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Despair | |
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/strike mission/temple of febe/turn.png" width="20" height="20" title="Turn" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Envy | |
+| | \<\<\<Enraged Smash\>\>\> | Regret | |
+| 6 (+Range 450) | \<\<\<Enraged Smash\>\>\> | Rage | |
+|<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img>| \<\<\<Enraged Smash\>\>\> | Gluttony | |
 | Win Or Die | Win Or Die | Win Or Die | Win Or Die |
