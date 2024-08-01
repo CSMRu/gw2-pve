@@ -22,7 +22,7 @@ Strategy
 >
 >Example 1. \[Regret <img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img><img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_star_marker.png" width="20" height="20" title="star" alt=""></img>\] = Do Scourge Action when Regret End
 >
->Example 2. \[<img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img><img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_triangle_marker.png" width="20" height="20" title="triangle" alt=""></img> Rage\] = Do Scourge Action When Rage Start
+>Example 2. \[<img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img><img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_triangle_marker.png" width="20" height="20" title="triangle" alt=""></img> Rage\] = Do Scourge Action when Rage Start
 
 <br/>
 
