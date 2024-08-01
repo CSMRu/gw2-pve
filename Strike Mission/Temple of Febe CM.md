@@ -14,11 +14,11 @@
 
 Strategy
 --------
-><img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img> Squad Action
->
 ><img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img> Chronomancer Action
 >
 ><img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img> Scourge Action
+>
+><img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img> Squad Action
 >
 >Example 1. \[Regret <img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img><img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_star_marker.png" width="20" height="20" title="star" alt=""></img>\] = Do Scourge Action when Regret End, Sand Swell <img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> to <img src="../_image/squad/Commander_star_marker.png" width="20" height="20" title="star" alt=""></img>
 >
@@ -66,19 +66,28 @@ Strategy
 
 |<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Squad |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus |<img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects |
 |:--------:|:-----------------:|:-------:|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img>|Regret||
+|<img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>||<img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img><img src="../_image/squad/Commander_circle_marker.png" width="20" height="20" title="circle" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img> Rage <img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>|
+|<img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>🔗️️<img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img><img src="../_image/general/Stop.png" width="20" height="20" title="Stop" alt=""></img>|Envy||
+|||Gluttony <img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img><img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
+||Gluttony <img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/squad/Commander_triangle_marker.png" width="20" height="20" title="triangle" alt=""></img>|Malice|
+|<img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img><img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img> Kill|Rage||
+|DROP LINE <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/squad/Commander_square_marker.png" width="20" height="20" title="Square" alt=""></img><img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img>|Malice|Despair|
+|DROP DOT <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img> Kill|Despair||
+|Jump <img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img>|Regret|Envy|
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>|Envy|Regret|
+||Gluttony|<img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img>１<img src="../_image/skill/mesmer/Continuum_Split.png" width="20" height="20" title="Continuum Split" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/skill/mesmer/Continuum_Shift.png" width="20" height="20" title="Continuum Shift" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img> Rage|
+|<img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img> *12*|||
+|*12* <img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>|<img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img> 12 <img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_x_marker.png" width="20" height="20" title="X" alt=""></img>🔗️<img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img> **12** <img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img> Rage <img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>||
+|<img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>||Gluttony <img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img>|
+|<img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img><img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img><img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img> DROP ARC <img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/squad/Commander_x_marker.png" width="20" height="20" title="X" alt=""></img><img src="../_image/skill/mesmer/Signet_of_Illusions.png" width="20" height="20" title="Signet of Illusions" alt=""></img>|Despair|Malice|
+|Kill|Regret <img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img>↖️<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_arrow_marker.png" width="20" height="20" title="arrow" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>||
+|DROP DOT <img src="../_image/general/Turn_Left.png" width="20" height="20" title="Left" alt=""></img><img src="../_image/skill/Dodge.png" width="20" height="20" title="Dodge" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>||Despair|
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>|Envy||
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img> Jump９|Gluttony <img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>|Envy|
+|<img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>５||Regret <img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge Action" alt=""></img>５<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>**５**🔗️️<img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img>**５**<img src="../_image/skill/mesmer/Portal_Entre.png" width="20" height="20" title="Portal Entre" alt=""></img>|
+|５<img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img>|Rage <img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>||
+|<img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img>|Malice|<img src="../_image/_custom/purple_clock.png" width="20" height="20" title="Chronomancer Action" alt=""></img><img src="../_image/skill/mesmer/Portal_Exeunt.png" width="20" height="20" title="Portal Exeunt" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img> Rage <img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>|
+|<img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img> DROP|Despair||
+|<img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img><img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Stack|Regret|Gluttony <img src="../_image/general/Lockout.png" width="20" height="20" title="Squad Action" alt=""></img>|
+|<img src="../_image/boon/Swiftness_(effect).png" width="20" height="20" title="Run" alt=""></img><img src="../_image/general/Turn_Right.png" width="20" height="20" title="Right" alt=""></img>|Envy|Malice|
