@@ -16,3 +16,15 @@ Strategy
 --------
 **Phase 1. Spawn aspect every 30sec (~80%)**
 
+|<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Squad |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus |<img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects |
+|:--------:|:-----------------:|:-------:|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
