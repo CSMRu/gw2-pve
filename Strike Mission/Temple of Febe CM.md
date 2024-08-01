@@ -47,3 +47,26 @@ Strategy
 ||Malice & Gluttony|Regret|
 |<img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img> Kill|<img src="../_image/_custom/green_clock.png" width="20" height="20" title="Scourge" alt=""></img><img src="../_image/squad/Commander_spiral_marker.png" width="20" height="20" title="spiral" alt=""></img><img src="../_image/skill/necromancer/Sand_Swell.png" width="20" height="20" title="Sand Swell" alt=""></img><img src="../_image/squad/Commander_heart_marker.png" width="20" height="20" title="heart" alt=""></img> Rage||
 ||Regret|Rage|
+
+**Split 2. Kill Gluttony (９)**
+
+**Phase 3. Spawn aspect every 15sec (~10%)**
+
+|<img src="../_image/squad/Commander_tag_(white).png" width="20" height="20" title="Squad" alt=""></img> Squad |<img src="../_image/general/20px-Red_Boss.png" width="20" height="20" title="Cerus" alt=""></img> Cerus |<img src="../_image/general/Event_boss_(tango_icon).png" width="20" height="20" title="Aspects" alt=""></img> Aspects |
+|:--------:|:-----------------:|:-------:|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
