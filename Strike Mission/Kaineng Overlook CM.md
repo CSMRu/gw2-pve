@@ -8,3 +8,52 @@
 
 ## Walkthrough
 ### Phase 1. Minister Li (~66%); Attack Patterns: ①②③(loop)
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 20.0000%;">①
+				<br>
+			</td>
+			<td style="width: 40.0442%;" colspan="2">
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{orange}{Wave(Player)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{lime}{Green}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20.0000%;">②
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(Corner)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">PPPPP
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{orange}{Wave(Center)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{lime}{Green}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20.0000%;">③
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(Center)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">PPPPP
+				<br>
+			</td>
+			<td style="width: 40.0442%;" colspan="2">$\color{pink}{Numbers}$
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
