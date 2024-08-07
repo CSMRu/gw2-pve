@@ -52,3 +52,7 @@
 		</tr>
 	</tbody>
 </table>
+
+<br>
+
+## Common Mechanism Note
