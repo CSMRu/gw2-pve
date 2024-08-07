@@ -10,7 +10,10 @@
 
 ## Walkthrough
 
-### Phase 1. Minister Li (~66%); Attack Patterns: ①②③(loop)
+### Phase 1. Minister Li (~66%)
+> [!NOTE]
+> Attack Patterns: ①②③(loop)
+
 <table style="width: 100%;">
 	<tbody>
 		<tr>
@@ -112,7 +115,7 @@
 
 ### Phase 2. Enforcer, Ritualist, and Mindblade
 > [!NOTE]
-> Kill Priority ①Mindblade ②Ritualist ③Enforcer
+> Kill Priority: ①Mindblade ②Ritualist ③Enforcer
 
 |General|
 |:-|
@@ -128,4 +131,94 @@
 
 |$\color{skyblue}{Enforcer}$|
 |:-|
-|・'Enforcer'의 AoE 위치는 불변하다.<br>・지면에 푸른 불길을 생성하고 중앙에서 회전하는 애니메이션을 완료한 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・모든 플레이어를 대상으로 하는 Heaven's Palm을 준비하는 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・지면의 푸른 불길을 밟으면 플레이어는 Infirmity 효과를 얻는다. **4중첩 상태의 플레이어는 체력을 회복할 수 없다.**<br>・중앙에서 회전하며 흩뿌리는 푸른색 구체를 맞으면 플레이어는 Debilitated 효과를 얻는다.|
+|・'Enforcer'의 AoE 위치는 불변하다.<br>・지면에 푸른 불길을 생성하고 중앙에서 회전하는 애니메이션을 완료한 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・모든 플레이어를 대상으로 하는 Heaven's Palm을 준비하는 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・지면의 푸른 불길을 밟으면 플레이어는 <img src="../_image/strike mission/kaineng overlook/Debilitating_Void.png" width="20" height="20" title="Infirmity" alt=""></img>Infirmity 효과를 얻는다. **4중첩 상태의 플레이어는 체력을 회복할 수 없다.**<br>・중앙에서 회전하며 흩뿌리는 푸른색 구체를 맞으면 플레이어는 <img src="../_image/strike mission/kaineng overlook/Debilitated.png" width="20" height="20" title="Debilitated" alt=""></img>Debilitated 효과를 얻는다.<br><img src="../_image/strike mission/kaineng overlook/Debilitating_Void.png" width="20" height="20" title="Infirmity" alt=""></img> [Infirmity](https://wiki.guildwars2.com/wiki/Infirmity)<br><img src="../_image/strike mission/kaineng overlook/Debilitated.png" width="20" height="20" title="Debilitated" alt=""></img> [Debilitated](https://wiki.guildwars2.com/wiki/Debilitated)|
+
+<br>
+
+### Phase 3. Minister Li (~33%)
+> [!NOTE]
+> Attack Patterns: ①~⑤(loop)
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 20.0000%;">①
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(NW)}$
+			<td style="width: 20.0000%;">➕
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{orange}{Wave(Center)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{lime}{2Greens}$
+		</tr>
+		<tr>
+			<td style="width: 20.0000%;">②</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(NE)}$
+			<td style="width: 20.0000%;">➕
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{orange}{Wave(Center)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">4Bombs</td>
+		</tr>
+		<tr>
+			<td style="width: 20.0000%;">③
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(SE)}$
+			<td style="width: 20.0000%;">➕
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{orange}{Wave(Center)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{lime}{2Greens}$
+		</tr>
+		<tr>
+			<td style="width: 20.0000%;">④</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(SW)}$
+			<td style="width: 20.0000%;">➕
+				<br>
+			</td>
+			<td style="width: 20.0000%;">$\color{orange}{Wave(Center)}$
+				<br>
+			</td>
+			<td style="width: 20.0000%;">4Bombs</td>
+		</tr>
+		<tr>
+			<td style="width: 20.0000%;">⑤</td>
+			<td style="width: 20.0000%;">$\color{skyblue}{Rush(Center)}$
+			<td style="width: 20.0000%;">➕
+				<br>
+			</td>
+			<td style="width: 40.0442%;" colspan="2">$\color{pink}{Numbers}$
+		</tr>
+	</tbody>
+</table>
+<details>
+<summary>Mechanism Note</summary>
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 50.0000%;">Bombs
+				<br>
+			</td>
+			<td style="width: 50.0000%;">&#39;Minister Li&#39;와 <strong>가장 가까운 4명의 플레이어</strong>에게 주황색 원이 나타난다.
+				<br>각 원의 단일 피해량은 크지 않으나, 원이 겹쳐진 곳에 위치하는 플레이어는 매우 큰 피해를 입는다.
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+</details>
+
+
+
