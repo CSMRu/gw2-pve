@@ -220,5 +220,8 @@
 </p>
 </details>
 
+<br>
 
-
+### Phase 4. Mech Rider and Sniper
+> [!NOTE]
+> Attack Patterns: ①②(loop)
