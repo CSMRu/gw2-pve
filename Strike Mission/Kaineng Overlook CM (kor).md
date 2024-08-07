@@ -355,7 +355,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 33.3333%;">Lightning Rain
+			<td style="width: 33.3333%;">$\color{skyblue}{LightningRain}$
 				<br>
 			</td>
 			<td style="width: 33.3333%;">공격 대상이 Fall of the Axe가 닿지 않는 거리에 위치할 경우, 어그로 대상을 다시 체크하고 공격 대상이 된 플레이어에게 Lightning Rain을 4회 실행한다. (가능한 경우)
@@ -364,7 +364,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 33.3333%;">Pushback
+			<td style="width: 33.3333%;">$\color{lime}{Pushback}$
 				<br>
 			</td>
 			<td style="width: 33.3333%;">&#39;Mech Rider&#39;가 회전하며 플레이어를 밀어낸다.
@@ -373,7 +373,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 33.3333%;">Jade Mine
+			<td style="width: 33.3333%;">$\color{lime}{JadeMine}$
 				<br>
 			</td>
 			<td style="width: 33.3333%;">&#39;Mech Rider&#39;가 회전하며 주변에 Jade Mine을 설치한다.
@@ -382,7 +382,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 33.3333%;">Jade Buster Cannon
+			<td style="width: 33.3333%;">$\color{magenta}{JadeBusterCannon}$
 				<br>
 			</td>
 			<td style="width: 33.3333%;">&#39;Mech Rider&#39;가 양팔을 앞으로 뻗어 2초 동안 채널링 후, <strong>맵에 가장 먼저 입장한 플레이어</strong>를 대상으로 Jade Buster Cannon을 실행한다.
@@ -394,8 +394,9 @@
 			<td style="width: 33.3333%;">Numbers
 				<br>
 			</td>
-			<td style="width: 33.3333%;"><strong>5명의 플레이어</strong>의 머리 위에 로마 숫자() 형식의 1에서 5까지의 표식을 새긴다.
-				<br>표식이 나타난 후, 12초 뒤에 &#39;Mech Rider&#39;는 표식이 달린 플레이어에게 오름차순으로 돌진하여 대상을 관통하는 원뿔형 AoE 공격을 한다. 공격을 받은 플레이어는 3초 동안 <a href="https://wiki.guildwars2.com/wiki/Float" target="_blank" rel="noopener noreferrer">Float</a> 상태가 되며, 5초간 Extreme Vulnerability 효과를 받는다.
+			<td style="width: 33.3333%;"><strong>5명의 플레이어</strong>의 머리 위에 로마 숫자(<img src="../_image/strike mission/kaineng overlook/Target_Order-1_(overhead_icon).png" width="20" height="20" title="1" alt=""></img><img src="../_image/strike mission/kaineng overlook/Target_Order-2_(overhead_icon).png" width="20" height="20" title="2" alt=""></img><img src="../_image/strike mission/kaineng overlook/Target_Order-3_(overhead_icon).png" width="20" height="20" title="3" alt=""></img>) 형식의 1에서 5까지의 표식을 새긴다.
+				<br>표식이 나타난 후, 12초 뒤에 &#39;Mech Rider&#39;는 표식이 달린 플레이어에게 오름차순으로 돌진하여 대상을 관통하는 원뿔형 AoE 공격을 한다.
+				<br>공격을 받은 플레이어는 3초 동안 <a href="https://wiki.guildwars2.com/wiki/Float" target="_blank" rel="noopener noreferrer">Float</a> 상태가 되며, 5초간 <img src="../_image/strike mission/kaineng overlook/Extreme_Vulnerability.png" width="20" height="20" title="Extreme Vulnerability" alt=""></img>Extreme Vulnerability 효과를 받는다.
 				<br>이 공격은 회피 또는 Block 할 수 있다.
 				<br>&#39;Mech Rider&#39;는 이 공격을 마친 후, 다시 중앙에 위치하기 위해 걸어간다.
 				<br>
@@ -405,7 +406,7 @@
 			<td style="width: 33.2965%;" rowspan="2">Sniper
 				<br>
 			</td>
-			<td style="width: 33.3333%;">Jade Ricochet
+			<td style="width: 33.3333%;">$\color{orange}{JadeRicochet}$
 				<br>
 			</td>
 			<td style="width: 33.3333%;">&#39;Sniper&#39;는 Jade Ricochet을 실행하기 위해 횃대로 이동하며 그곳에서 가장 가까운 플레이어를 공격 대상으로 지정한다.
@@ -421,7 +422,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 33.3333%;">Jade Laser Shot
+			<td style="width: 33.3333%;">$\color{pink}{JadeLaserShot}$
 				<br>
 			</td>
 			<td style="width: 33.3333%;">&#39;Sniper&#39;는 Jade Laser Shot을 실행하기 위해 횃대로 이동하고 <a href="https://wiki.guildwars2.com/wiki/Defiance_bar" target="_blank" rel="noopener noreferrer">Defiance bar</a>가 활성화되며, 무작위 플레이어를 공격 대상으로 지정한다.
@@ -442,7 +443,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 33.3333%;">Green
+			<td style="width: 33.3333%;">$\color{lime}{Green}$
 				<br>
 			</td>
 			<td style="width: 66.5929%;" colspan="2">무작위 플레이어에게 천천히 줄어드는 AoE가 표시된다.
