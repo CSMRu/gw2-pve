@@ -9,3 +9,46 @@
 <br>
 
 ## Triple-Threat Puzzles
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 25.0000%;">Who
+				<br>
+			</td>
+			<td style="width: 25.0000%;">Where
+				<br>
+			</td>
+			<td style="width: 25.0000%;">State
+				<br>
+			</td>
+			<td style="width: 25.0000%;">CC Target
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;" rowspan="3"><img src="../_image/strike mission/old lion's court/Arsenite.png" width="64" height="64" title="Arsenite" alt=""></img></td>
+			<td style="width: 25.0000%;">Center
+				<br>
+			</td>
+			<td style="width: 25.0000%;">
+				<br>
+			</td>
+			<td style="width: 25.0000%;">$\color{pink}{Vermilion}$
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;" rowspan="2">Edge
+				<br>
+			</td>
+			<td style="width: 25.0000%;">Look inside
+				<br>
+			</td>
+			<td style="width: 25.0000%;">$\color{lime}{Arsenite}$
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Look outside
+				<br>
+			</td>
+			<td style="width: 25.0000%;">$\color{skyblue}{Indigo}$
+		</tr>
+	</tbody>
+</table>
