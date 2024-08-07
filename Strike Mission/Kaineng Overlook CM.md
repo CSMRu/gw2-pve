@@ -7,6 +7,7 @@
 |  Group 2. |<img src="../_image/profession/Mechanist_icon_(highres).png" width="64" height="64" title="Heal Alacrity Mechanist" alt=""></img>|<img src="../_image/profession/Herald_icon_(highres).png" width="64" height="64" title="Quickness Herald" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|
 
 ## Walkthrough
+
 ### Phase 1. Minister Li (~66%); Attack Patterns: ①②③(loop)
 <table style="width: 100%;">
 	<tbody>
@@ -104,3 +105,11 @@
 	</tbody>
 </table>
 </details>
+
+### Phase 2. Enforcer, Ritualist, and Mindblade
+> [!NOTE]
+> Kill Priority ①Mindblade ②Ritualist ③Enforcer
+
+|General|
+|:-|
+|・'Mindblade'와 'Enforcer'는 처음 등장할 때, 가장 가까운 대상을 공격 대상으로 지정한다.<br>・한 명의 플레이어가 동시에 'Mindblade'와 'Enforcer'의 공격 대상으로 지정될 수 있다.<br>・'Mindblade'와 'Enforcer'는 서로 간의 거리가 360미만일 때, 서로를 연결하는 선이 나타나며 특수한 효과(0)를 얻는다.|
