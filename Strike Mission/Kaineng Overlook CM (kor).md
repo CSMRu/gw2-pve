@@ -335,10 +335,10 @@
 		<tr>
 			<td style="width: 33.2965%;" rowspan="7">
 				<br>Mech Rider</td>
-			<td style="width: 33.3333%;">TANK AGGRO
+			<td style="width: 33.3333%;">$\color{red}{TANK&mdash;AGGRO}$
 				<br>
 			</td>
-			<td style="width: 33.3333%;">어그로는 대부분의 경우 LoS(Line of sight)와 거리를 기반으로 정해진다.
+			<td style="width: 33.3333%;">어그로는 대부분의 경우 <a href="https://wiki.guildwars2.com/wiki/Line_of_sight" target="_blank" rel="noopener noreferrer">LoS(Line of sight)</a>와 거리를 기반으로 정해진다.
 				<br>&#39;Mech Rider&#39;는 앞에 존재하는 플레이어를 &quot;체크&quot;하고 가장 가까운 플레이어를 선택한다.
 				<br>LoS 체크는 <strong>원뿔형</strong> 170&deg;
 				<br>
@@ -377,7 +377,7 @@
 				<br>
 			</td>
 			<td style="width: 33.3333%;">&#39;Mech Rider&#39;가 회전하며 주변에 Jade Mine을 설치한다.
-				<br>Jade Mine은 닷지 또는 Block 판정으로 피해 없이 제거할 수 있다.
+				<br>Jade Mine은 닷지 또는 <a href="https://wiki.guildwars2.com/wiki/Block" target="_blank" rel="noopener noreferrer">Block</a> 판정으로 피해 없이 제거할 수 있다.
 				<br>
 			</td>
 		</tr>
@@ -395,7 +395,7 @@
 				<br>
 			</td>
 			<td style="width: 33.3333%;"><strong>5명의 플레이어</strong>의 머리 위에 로마 숫자() 형식의 1에서 5까지의 표식을 새긴다.
-				<br>표식이 나타난 후, 12초 뒤에 &#39;Mech Rider&#39;는 표식이 달린 플레이어에게 오름차순으로 돌진하여 대상을 관통하는 원뿔형 AoE 공격을 한다. 공격을 받은 플레이어는 3초 동안 Float 상태가 되며, 5초간 Extreme Vulnerability 효과를 받는다.
+				<br>표식이 나타난 후, 12초 뒤에 &#39;Mech Rider&#39;는 표식이 달린 플레이어에게 오름차순으로 돌진하여 대상을 관통하는 원뿔형 AoE 공격을 한다. 공격을 받은 플레이어는 3초 동안 <a href="https://wiki.guildwars2.com/wiki/Float" target="_blank" rel="noopener noreferrer">Float</a> 상태가 되며, 5초간 Extreme Vulnerability 효과를 받는다.
 				<br>이 공격은 회피 또는 Block 할 수 있다.
 				<br>&#39;Mech Rider&#39;는 이 공격을 마친 후, 다시 중앙에 위치하기 위해 걸어간다.
 				<br>
@@ -410,7 +410,7 @@
 			</td>
 			<td style="width: 33.3333%;">&#39;Sniper&#39;는 Jade Ricochet을 실행하기 위해 횃대로 이동하며 그곳에서 가장 가까운 플레이어를 공격 대상으로 지정한다.
 				<br>그와 동시에 모든 플레이어에게 작은 범위의 Bombs가 나타난다.
-				<br>공격의 대상이 된 플레이어는 Deadeye&#39;s Mark와 동일한 효과음을 들을 수 있으며,
+				<br>공격의 대상이 된 플레이어는 <a href="https://wiki.guildwars2.com/wiki/Deadeye%27s_Mark" target="_blank" rel="noopener noreferrer">Deadeye&#39;s Mark</a>와 동일한 효과음을 들을 수 있으며,
 				<br>모든 플레이어는 <strong>주황색 선</strong>이 이어진 플레이어 및 <strong>큰 원형의 얇은 붉은 테두리</strong>의 중심에 위치한 플레이어로 현재 공격의 대상이 된 플레이어를 구분할 수 있다.
 				<br>공격을 받는 순간 <strong>붉은 테두리 안에 있던 다른 플레이어는 즉사한다.</strong>
 				<br>이 공격은 어떠한 방법으로도 <strong>막거나 회피할 수 없다.</strong>
@@ -424,7 +424,7 @@
 			<td style="width: 33.3333%;">Jade Laser Shot
 				<br>
 			</td>
-			<td style="width: 33.3333%;">&#39;Sniper&#39;는 Jade Laser Shot을 실행하기 위해 횃대로 이동하고 Defiance bar가 활성화되며, 무작위 플레이어를 공격 대상으로 지정한다.
+			<td style="width: 33.3333%;">&#39;Sniper&#39;는 Jade Laser Shot을 실행하기 위해 횃대로 이동하고 <a href="https://wiki.guildwars2.com/wiki/Defiance_bar" target="_blank" rel="noopener noreferrer">Defiance bar</a>가 활성화되며, 무작위 플레이어를 공격 대상으로 지정한다.
 				<br>그와 동시에 또한 무작위 플레이어 한 명에게 Green이 나타난다.
 				<br>공격의 대상이 된 플레이어는 Deadeye&#39;s Mark와 동일한 효과음을 들을 수 있으며,
 				<br><strong>빨간색 선</strong>이 이어진 플레이어가 이 공격의 대상이 되어있음을 파악할 수 있다.
