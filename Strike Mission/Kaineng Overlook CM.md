@@ -62,9 +62,6 @@
 <table style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 99.7788%;" colspan="2">Mechanism Note</td>
-		</tr>
-		<tr>
 			<td style="width: 50.0000%;">$\color{lime}{Green}$
 				<br>
 			</td>
