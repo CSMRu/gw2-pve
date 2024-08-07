@@ -6,6 +6,8 @@
 |  Group 1. |<img src="../_image/profession/Mechanist_icon_(highres).png" width="64" height="64" title="Heal Alacrity Mechanist" alt=""></img>|<img src="../_image/profession/Herald_icon_(highres).png" width="64" height="64" title="Quickness Herald" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|
 |  Group 2. |<img src="../_image/profession/Mechanist_icon_(highres).png" width="64" height="64" title="Heal Alacrity Mechanist" alt=""></img>|<img src="../_image/profession/Herald_icon_(highres).png" width="64" height="64" title="Quickness Herald" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|<img src="../_image/general/GW2Logo_new.png" width="64" height="45" title="DPS" alt=""></img>|
 
+<br>
+
 ## Walkthrough
 
 ### Phase 1. Minister Li (~66%); Attack Patterns: ①②③(loop)
@@ -105,6 +107,8 @@
 	</tbody>
 </table>
 </details>
+
+<br>
 
 ### Phase 2. Enforcer, Ritualist, and Mindblade
 > [!NOTE]
