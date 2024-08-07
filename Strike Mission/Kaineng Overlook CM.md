@@ -31,7 +31,7 @@
 			<td style="width: 20.0000%;">$\color{skyblue}{Rush(Corner)}$
 				<br>
 			</td>
-			<td style="width: 20.0000%;">PPPPP
+			<td style="width: 20.0000%;">➕
 				<br>
 			</td>
 			<td style="width: 20.0000%;">$\color{orange}{Wave(Center)}$
@@ -48,7 +48,7 @@
 			<td style="width: 20.0000%;">$\color{skyblue}{Rush(Center)}$
 				<br>
 			</td>
-			<td style="width: 20.0000%;">PPPPP
+			<td style="width: 20.0000%;">➕
 				<br>
 			</td>
 			<td style="width: 40.0442%;" colspan="2">$\color{pink}{Numbers}$
