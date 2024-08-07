@@ -116,4 +116,16 @@
 
 |General|
 |:-|
-|・'Mindblade'와 'Enforcer'는 처음 등장할 때, 가장 가까운 대상을 공격 대상으로 지정한다.<br>・한 명의 플레이어가 동시에 'Mindblade'와 'Enforcer'의 공격 대상으로 지정될 수 있다.<br>・'Mindblade'와 'Enforcer'는 서로 간의 거리가 360미만일 때, 서로를 연결하는 선이 나타나며 특수한 효과(0)를 얻는다.|
+|・'Mindblade'와 'Enforcer'는 처음 등장할 때, 가장 가까운 대상을 공격 대상으로 지정한다.<br>・한 명의 플레이어가 동시에 'Mindblade'와 'Enforcer'의 공격 대상으로 지정될 수 있다.<br>・'Mindblade'와 'Enforcer'는 서로 간의 거리가 360미만일 때, 서로를 연결하는 선이 나타나며 특수한 효과(<img src="../_image/strike mission/kaineng overlook/Giant_Growth.png" width="20" height="20" title="Stronger Together" alt=""></img> <img src="../_image/strike mission/kaineng overlook/Crowd_Favor.png" width="20" height="20" title="Lethal Inspiration" alt=""></img>)를 얻는다.<br><img src="../_image/strike mission/kaineng overlook/Giant_Growth.png" width="20" height="20" title="Stronger Together" alt=""></img> [Stronger Together](https://wiki.guildwars2.com/wiki/Stronger_Together)<br><img src="../_image/strike mission/kaineng overlook/Crowd_Favor.png" width="20" height="20" title="Lethal Inspiration" alt=""></img> [Lethal Inspiration](https://wiki.guildwars2.com/wiki/Lethal_Inspiration)|
+
+|$\color{pink}{Mindblade}$|
+|:-|
+|・'Enforcer'가 모든 플레이어를 대상으로 하는 Heaven's Palm을 준비하는 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・무작위 2명의 플레이어를 지정하고, 그 플레이어의 발밑에 치명적인 피해를 입히는 붉은색 AoE를 설치한다.<br>이 효과는 5회 작동하며, 첫 AoE는 7초 후에 설치되나 나머지는 1초 간격으로 설치된다.<br>설치된 붉은색 AoE는 30초 동안 지속된다.<br>・[Unstable Bladestorm](https://wiki.guildwars2.com/wiki/Unstable_Bladestorm) 6개를 소환하는 공격은 소환된 후, 중심에 위치한 'Mindblade' 방향으로 닷지하여 안전하게 피할 수 있다.|
+
+|$\color{lime}{Ritualist}$|
+|:-|
+|・정해진 위치 세 곳이 있으며, 그 외의 위치로 이동하지 않는다.<br>・분을 제거하는 공격을 하지만 'Ritualist' 주변에 'Mindblade'가 있으면 공격을 받지 않는다.|
+
+|$\color{skyblue}{Enforcer}$|
+|:-|
+|・'Enforcer'의 AoE 위치는 불변하다.<br>・지면에 푸른 불길을 생성하고 중앙에서 회전하는 애니메이션을 완료한 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・모든 플레이어를 대상으로 하는 Heaven's Palm을 준비하는 시점에 가장 가까운 플레이어를 공격 대상으로 재지정한다.<br>・지면의 푸른 불길을 밟으면 플레이어는 Infirmity 효과를 얻는다. **4중첩 상태의 플레이어는 체력을 회복할 수 없다.**<br>・중앙에서 회전하며 흩뿌리는 푸른색 구체를 맞으면 플레이어는 Debilitated 효과를 얻는다.|
