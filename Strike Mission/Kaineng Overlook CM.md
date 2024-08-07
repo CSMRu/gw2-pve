@@ -225,3 +225,115 @@
 ### Phase 4. Mech Rider and Sniper
 > [!NOTE]
 > Attack Patterns: ①②(loop)
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 99.7788%;" colspan="2">Common Attack 1. Fall of the Axe</td>
+		</tr>
+		<tr>
+			<td style="width: 99.7788%;" colspan="2">Common Attack 2. Lightning Rain
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50%; text-align: center;">① during 75sec
+				<br>
+			</td>
+			<td style="width: 50%; text-align: center;">② during 80sec
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{lime}{Pushback}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">Numbers1</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{lime}{JadeMine}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">Numbers2</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{lime}{4Bombs}$
+			<td style="width: 50.0000%;">Numbers3</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{lime}{2Greens}$
+			<td style="width: 50.0000%;">$\color{orange}{Numbers4}$
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{skyblue}{LightningRain(optional)}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">$\color{orange}{AllPlayerBombs}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{orange}{AllPlayerBombs}$
+			<td style="width: 50.0000%;">$\color{orange}{JadeRicochet1(+10sec)}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{orange}{JadeRicochet1(+10sec)}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">Numbers5</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">JadeRicochet2(+4sec)
+				<br>
+			</td>
+			<td style="width: 50.0000%;">JadeRicochet2(+4sec)
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{magenta}{JadeRicochet3(+4sec)}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">$\color{magenta}{JadeRicochet3(+4sec)}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{magenta}{JadeBusterCannon}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">$\color{magenta}{JadeBusterCannon}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{magenta}{4Bombs}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">$\color{magenta}{4Bombs}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{pink}{JadeLaserShot}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">$\color{pink}{JadeLaserShot}$
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">$\color{pink}{Green}$
+			<td style="width: 50.0000%;">$\color{pink}{Green}$
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+
