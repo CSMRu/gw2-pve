@@ -214,10 +214,6 @@
 		</tr>
 	</tbody>
 </table>
-
-<p>
-	<br>
-</p>
 </details>
 
 <br>
@@ -332,8 +328,6 @@
 		</tr>
 	</tbody>
 </table>
-
-<p>
-	<br>
-</p>
-
+<details>
+<summary>Mechanism Note</summary>
+</details>
