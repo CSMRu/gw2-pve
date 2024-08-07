@@ -331,3 +331,10 @@
 <details>
 <summary>Mechanism Note</summary>
 </details>
+
+<br>
+
+### Phase 5. Minister Li (~0%)
+> [!NOTE]
+> Attack Patterns: ①~⑥(loop)
+
