@@ -468,11 +468,11 @@
 			<td style="width: 16.6667%;">①
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Rush(NW)</td>
+			<td style="width: 16.6667%;">$\color{skyblue}{Rush(NW)}$
 			<td style="width: 16.6667%;">➕
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Numbers
+			<td style="width: 16.6667%;">$\color{pink}{Numbers}$
 				<br>
 			</td>
 			<td style="width: 16.6667%;">4Bombs</td>
@@ -484,61 +484,61 @@
 			<td style="width: 16.6667%;">②
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Rush(SW)</td>
+			<td style="width: 16.6667%;">$\color{skyblue}{Rush(SW)}$
 			<td style="width: 16.6667%;">➕
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Wave(Center)</td>
+			<td style="width: 16.6667%;">$\color{orange}{Wave(Center)}$
 			<td style="width: 16.6667%;">4Bombs
 				<br>
 			</td>
-			<td style="width: 16.6667%;">2Greens</td>
+			<td style="width: 16.6667%;">$\color{lime}{2Greens}$
 		</tr>
 		<tr>
 			<td style="width: 16.6667%;">③
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Rush(SE)</td>
+			<td style="width: 16.6667%;">$\color{skyblue}{Rush(SE)}$
 			<td style="width: 16.6667%;">➕
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Numbers
+			<td style="width: 16.6667%;">$\color{pink}{Numbers}$
 				<br>
 			</td>
 			<td style="width: 16.6667%;">
 				<br>
 			</td>
-			<td style="width: 16.6667%;">2Greens</td>
+			<td style="width: 16.6667%;">$\color{lime}{2Greens}$
 		</tr>
 		<tr>
 			<td style="width: 16.6667%;">④
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Rush(NE)</td>
+			<td style="width: 16.6667%;">$\color{skyblue}{Rush(NE)}$
 			<td style="width: 16.6667%;">➕
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Wave(Center)
+			<td style="width: 16.6667%;">$\color{orange}{Wave(Center)}$
 				<br>
 			</td>
 			<td style="width: 16.6667%;">4Bombs
 				<br>
 			</td>
-			<td style="width: 16.6667%;">2Greens</td>
+			<td style="width: 16.6667%;">$\color{lime}{2Greens}$
 		</tr>
 		<tr>
 			<td style="width: 16.6667%;">⑤
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Rush(Center)</td>
+			<td style="width: 16.6667%;">$\color{skyblue}{Rush(Center)}$
 			<td style="width: 16.6667%;">➕
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Numbers</td>
+			<td style="width: 16.6667%;">$\color{pink}{Numbers}$
 			<td style="width: 16.6667%;">4Bombs
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Green</td>
+			<td style="width: 16.6667%;">$\color{lime}{Green}$
 		</tr>
 		<tr>
 			<td style="width: 16.6667%;">⑥
@@ -547,11 +547,11 @@
 			<td style="width: 33.1858%;" colspan="2">
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Numbers</td>
+			<td style="width: 16.6667%;">$\color{pink}{Numbers}$
 			<td style="width: 16.6667%;">4Bombs
 				<br>
 			</td>
-			<td style="width: 16.6667%;">Green</td>
+			<td style="width: 16.6667%;">$\color{lime}{Green}$
 		</tr>
 	</tbody>
 </table>
