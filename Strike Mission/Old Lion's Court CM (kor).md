@@ -99,3 +99,9 @@
 ## Walkthrough
 
 ### Phase 1. Triple-Threat \> <img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> (~60%)
+
+|<img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img> $\color{pink}{Vermilion}$|
+|:-|
+|① <img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> Fixated → $\color{pink}{\<Dual-Horizon\<}$ → ②|
+|② Mass Driver → Kinetic Impact → Gravity Hammer + **Boiling Aether** → ③|
+|③ Mass Driver → Kinetic Impact → Gravity Hammer → $\color{pink}{\<Dual-Horizon\<}$ → ②|
