@@ -8,7 +8,7 @@
 
 <br>
 
-## Triple-Threat Puzzles
+## <img src="../_image/general/Incredible_Reward.png" width="20" height="20" title="Triple-Threat Puzzles" alt=""></img> Triple-Threat Puzzles
 <table style="width: 100%;">
 	<tbody>
 		<tr>
