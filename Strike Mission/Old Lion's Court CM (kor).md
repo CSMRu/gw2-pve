@@ -83,7 +83,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 50.0000%;">Boiling Aether
+			<td style="width: 50.0000%;">$\color{orange}{BoilingAether}$
 			</td>
 			<td style="width: 50.0000%;">약한 피해량을 가진 푸른색의 작은 AoE 범위가 빠르게 확장된다.
 				<br>최대 크기에 도달하면 붉은색으로 바뀌며 피해량이 크게 증가한다.
@@ -93,3 +93,9 @@
 		</tr>
 	</tbody>
 </table>
+
+<br>
+
+## Walkthrough
+
+### Phase 1. Triple-Threat \> <img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> (~60%)
