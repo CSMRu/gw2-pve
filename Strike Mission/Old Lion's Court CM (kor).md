@@ -191,3 +191,11 @@
 	</tbody>
 </table>
 </details>
+
+<br>
+
+|<img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> $\color{skyblue}{Indigo}$|
+|:-|
+|① <img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> Fixated → $\color{skyblue}{\<\<Crackling-Wind\>\>}$ → ②|
+|② Volatile Static → Volatile Static → Volatile Static → Tri-Bolt + **Tribocharge** → ③|
+|③ Volatile Static → Volatile Static → Volatile Static → Tri-Bolt → $\color{skyblue}{\<\<Crackling-Wind\>\>}$ → ②|
