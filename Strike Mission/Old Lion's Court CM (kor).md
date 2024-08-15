@@ -249,3 +249,32 @@
 <br>
 
 ### Phase 2. Triple-Threat \> <img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img><img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img><img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img> (~20%)
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 99.7788%;" colspan="2">Additional Mechanism Note</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;"><img src="../_image/strike mission/old lion's court/Ley-Woven Shielding.png" width="20" height="20" title="Ley-Woven Shielding" alt=""></img> Ley-Woven Shielding
+				<br>
+			</td>
+			<td style="width: 50.0000%;">$\color{pink}{Dual-Horizon}$, $\color{lime}{Pernicious-Vortex}$ 혹은 $\color{skyblue}{Crackling-Wind}$를 실행하지 않는다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;"><img src="../_image/strike mission/old lion's court/Power Transfer.png" width="20" height="20" title="Power Transfer" alt=""></img> Power Transfer
+				<br>
+			</td>
+			<td style="width: 50.0000%;">활성화 상태의 적이 서로 간의 거리가 900 미만일 때 서로를 연결하는 선이 나타난다.
+				<br><img src="../_image/strike mission/old lion's court/Ley-Woven Shielding.png" width="20" height="20" title="Ley-Woven Shielding" alt=""></img>Ley-Woven Shielding 상태의 적이 <img src="../_image/strike mission/old lion's court/Power Transfer.png" width="20" height="20" title="Power Transfer" alt=""></img>Power Transfer 효과를 얻는다.
+				<br>효과가 지속되면 $\color{pink}{Dual-Horizon}$, $\color{lime}{Pernicious-Vortex}$ 혹은 $\color{skyblue}{Crackling-Wind}$를 실행한다.
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<br>
+
+### Phase 3. Triple-Threat \> <img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img><img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> (~0%)
