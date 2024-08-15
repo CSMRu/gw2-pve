@@ -105,3 +105,43 @@
 |① <img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> Fixated → $\color{pink}{\<Dual-Horizon\<}$ → ②|
 |② Mass Driver → Kinetic Impact → Gravity Hammer + **Boiling Aether** → ③|
 |③ Mass Driver → Kinetic Impact → Gravity Hammer → $\color{pink}{\<Dual-Horizon\<}$ → ②|
+<details>
+<summary>Vermilion Mechanism Details</summary>
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 50.0000%;">$\color{pink}{Dual-Horizon}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;">최초 실행 때, 나타나는 흰색 원형 영역을 기준으로 모든 플레이어의 위치 상태를 검사한다.
+				<br>원 내부에 위치했던 플레이어는 <img src="../_image/strike mission/old lion's court/Tidal_Torment.png" width="20" height="20" title="Tidal Torment" alt=""></img>Tidal Torment 상태를 얻는다.
+				<br>원 외부에 위치했던 플레이어는 <img src="../_image/strike mission/old lion's court/Ergo_Shear.png" width="20" height="20" title="Ergo Shear" alt=""></img>Ergo Shear 상태를 얻는다.
+				<br>이후 <strong>Dual Horizon</strong> 실행 때 플레이어는 흰색 영역에 위치해야한다.
+				<br>실패한 플레이어의 수만큼 Gravitational Wave를 실행한다.
+				<br><img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img><img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> 및 <img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img><img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> 플레이어는 <img src="../_image/strike mission/old lion's court/Tidal_Torment.png" width="20" height="20" title="Tidal Torment" alt=""><img src="../_image/strike mission/old lion's court/Ergo_Shear.png" width="20" height="20" title="Ergo Shear" alt=""></img> 상태를 적용하지 않는다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">Gravitational Wave
+				<br>
+			</td>
+			<td style="width: 50.0000%;">모든 플레이어에게 큰 피해를 입힌다.
+				<br><img src="../_image/strike mission/old lion's court/Empowered.png" width="20" height="20" title="Empowered" alt=""></img>Empowered 효과를 적용한다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">Mass Driver &rarr;
+				<br>Kinetic Impact &rarr;
+				<br>Gravity Hammer
+				<br>
+			</td>
+			<td style="width: 50.0000%;">기본 공격 체인.
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</details>
