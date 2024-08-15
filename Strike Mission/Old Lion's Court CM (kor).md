@@ -152,3 +152,42 @@
 |① <img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> Fixated → $\color{lime}{\>\>Pernicious-Vortex\<\<}$ → ②|
 |② Toxic Slice → Relapse → Rupture + **Noxious Vapor Blade** → ③|
 |③ Toxic Slice → Relapse → Rupture → $\color{lime}{\>\>Pernicious-Vortex\<\<}$ → ②|
+<details>
+<summary>Arsenite Mechanism Details</summary>
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 50.0000%;">$\color{lime}{Pernicious-Vortex}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;"><strong>&gt;&gt;Pull&lt;&lt;</strong> 5초 동안 모든 플레이어를 끌어당긴다.
+				<br><img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> 위치를 기준으로 가까울수록 피해량이 증가한다.
+				<br><img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> 위치에 240 범위의 붉은색 AoE가 잠시 나타난다.
+				<br>붉은색 AoE로 피해를 입힌 플레이어의 수만큼 <img src="../_image/strike mission/old lion's court/Empowered.png" width="20" height="20" title="Empowered" alt=""></img>Empowered 효과를 적용한다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">Toxic Slice &rarr;
+				<br>Relapse &rarr;
+				<br>Rupture
+				<br>
+			</td>
+			<td style="width: 50.0000%;">기본 공격 체인.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;"><strong>Noxious Vapor Blade</strong> &rarr;
+				<br>Noxious Return
+				<br>
+			</td>
+			<td style="width: 50.0000%;"><img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> 상태가 아니며 <img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> 위치에서 가장 멀리 떨어진 플레이어가 공격 대상으로 지정된다.
+				<br>공격 대상으로 지정된 플레이어가 증기 칼날에 닿은 순간 그 위치에 <strong>Boiling Aether</strong> 설치와 동시에
+				<br>Noxious Return이 실행되어 증기 칼날이 <img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> 위치로 즉시 되돌아가며 플레이어에게 피해를 입힌다.
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</details>
