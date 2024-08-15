@@ -245,3 +245,7 @@
 	</tbody>
 </table>
 </details>
+
+<br>
+
+### Phase 2. Triple-Threat \> <img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img><img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> \> <img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img><img src="../_image/strike mission/old lion's court/Vermilion.png" width="20" height="20" title="Vermilion" alt=""></img> (~20%)
