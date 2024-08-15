@@ -145,6 +145,8 @@
 </table>
 </details>
 
+<br>
+
 |<img src="../_image/strike mission/old lion's court/Arsenite.png" width="20" height="20" title="Arsenite" alt=""></img> $\color{lime}{Arsenite}$|
 |:-|
 |① <img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> Fixated → $\color{lime}{\>\>Pernicious-Vortex\<\<}$ → ②|
