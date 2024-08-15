@@ -199,3 +199,49 @@
 |① <img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> Fixated → $\color{skyblue}{\<\<Crackling-Wind\>\>}$ → ②|
 |② Volatile Static → Volatile Static → Volatile Static → Tri-Bolt + **Tribocharge** → ③|
 |③ Volatile Static → Volatile Static → Volatile Static → Tri-Bolt → $\color{skyblue}{\<\<Crackling-Wind\>\>}$ → ②|
+<details>
+<summary>Indigo Mechanism Details</summary>
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 50.0000%;">$\color{skyblue}{Crackling-Wind}$
+				<br>
+			</td>
+			<td style="width: 50.0000%;"><strong>&lt;&lt;Push&gt;&gt;</strong> 4초 동안 모든 플레이어를 밀어낸다.
+				<br><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> 위치를 기준으로 멀수록 피해량이 증가한다.
+				<br><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img> 위치를 기준으로 1200 거리 이상 벗어난 플레이어의 수만큼 <img src="../_image/strike mission/old lion's court/Empowered.png" width="20" height="20" title="Empowered" alt=""></img>Empowered 효과를 적용한다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">Volatile Static
+				<br>
+			</td>
+			<td style="width: 50.0000%;"><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img><img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> 플레이어에게 사슬 형태의 연쇄 번개 공격을 실행한다.
+				<br><img src="../_image/strike mission/old lion's court/Indigo.png" width="20" height="20" title="Indigo" alt=""></img><img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> 플레이어를 포함하여 3명이 연쇄 피해를 입는다.
+				<br>가장 가까운 플레이어에게 연쇄 번개가 전달되며, 비거리가 길수록 피해량이 증가한다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;">Tri-Bolt
+				<br>
+			</td>
+			<td style="width: 50.0000%;"><img src="../_image/strike mission/old lion's court/Fixated.png" width="20" height="20" title="Fixated" alt=""></img> 상태가 아닌 무작위 플레이어 3명에게 2초 후 폭발하는 주황색 원이 나타난다.
+				<br>각 원의 단일 피해량은 크지 않으나, 원이 겹쳐진 곳에 위치하는 플레이어는 큰 피해를 입힌다.
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50.0000%;"><strong>Tribocharge</strong>
+				<br>
+			</td>
+			<td style="width: 50.0000%;">Tri-Bolt의 대상이었던 3명의 플레이어 중 무작위 1명의 플레이어가 공격 대상으로 지정된다.
+				<br>공격 대상으로 지정된 시점의 플레이어 위치에 푸른빛 기둥이 생기며 플레이어는 기둥과 연결된다.
+				<br>동시에 작은 주황색 원이 나타나며 5초 후 <strong>Boiling Aether</strong>를 남기고 기둥 위치로 <a href="https://wiki.guildwars2.com/wiki/Teleport" target="_blank" rel="noopener noreferrer">텔레포트</a>한다.
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</details>
